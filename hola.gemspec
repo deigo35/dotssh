@@ -8,6 +8,6 @@ Gem::Specification.new do |s|
   s.authors = ["Sango Deigo"]
   s.email = 'sgdeigo@gmail.com'
   s.files = ['lib/hola.rb', 'lib/hola/translator.rb']
-  s.homepage = 'http://sgdeigo.github.io/dotssh'
+  s.homepage = 'http://sgdeigo.github.io/hola'
   s.license = 'MIT'
 end
