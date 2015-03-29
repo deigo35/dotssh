@@ -1,0 +1,13 @@
+*.gem
+*.rbc
+*~
+*.swp
+*.swo
+.bundle
+.rvmrc
+Gemfile.lock
+coverage
+doc/*
+log/*
+pkg/*
+tmp/*
